@@ -46,4 +46,7 @@ Data Refresh-Set up automatic data refresh for up-to-date information.
 * Add Card, Sun Burst Pie chart , Column Chart, Stacked Bar Chart.
 
 
+[View Video]() of Dashboard.
+
+[Download The File]() and Open In Power BI file for Interactive Viewing in PDF format.
 
