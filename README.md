@@ -48,5 +48,5 @@ Data Refresh-Set up automatic data refresh for up-to-date information.
 
 [View Video]() of Dashboard.
 
-[Download The File]() and Open In Power BI file for Interactive Viewing in PDF format.
+[Download The File](https://github.com/TrushnaR/Supermarket-Dashboard/blob/main/Supermarket%20pdf.pdf) and Open In Power BI file for Interactive Viewing in PDF format.
 
