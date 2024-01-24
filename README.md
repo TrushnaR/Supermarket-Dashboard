@@ -12,3 +12,12 @@ A Power BI supermarket dashboard aims to sell more products, manage inventory ef
 * Power Query
 * Dax Query
 * Data modeling
+
+#### Cleaning and Analyzing using Power Query
+- Open Excel and connect to your Supermarket data.
+- Use Power Query to clean and transform the data.
+- Create a copy template for one sheet in Power Query transformations and apply the same transformations to all sheets.
+- Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types (As it is a clean data, I have skipped this step)
+- Create a parameter to select the desired data based on a specific condition.
+- Encapsulate all steps into a function to be reused for future sheets and data.
+- Load and Apply the cleaned data into Power BI.
