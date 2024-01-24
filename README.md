@@ -30,8 +30,20 @@ Data Refresh-Set up automatic data refresh for up-to-date information.
 
 ![Merged Queries](https://github.com/TrushnaR/Supermarket-Dashboard/assets/155801135/b9dc97e8-e819-44dd-bc77-495ced02319b)
 
+##### Exploring and Manipulate Some Data Using DAX Query
+
+* With DAX Query, we can effectively manipulate and analyse the data to provide insights for visualization and identify areas for improvement for Supermarket Dashboard.
+* Create Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide and Date-time function for exploring some clean data for improve dashboard KPI in PowerBI.
+
 ![DAX Measure](https://github.com/TrushnaR/Supermarket-Dashboard/assets/155801135/c961883a-c898-44be-8c96-fb6680bf9f63)
 
+###### Power BI Dashboard Visualization
+* Design the dashboard layout.
+* Create a measure table to aggregate and display the data using Dax functions.
+* Use Visualization for charts and filters for filter dashboard.
+* Now, Add Title Supermarket Dashboard.
+* Add Year column as Slicer and add some informative KPI.
+* Add Card, Sun Burst Pie chart , Column Chart, Stacked Bar Chart.
 
 
 
